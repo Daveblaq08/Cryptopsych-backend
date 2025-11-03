@@ -1,9 +1,12 @@
-# Dependencies
-node_modules/
-
-# Environment variables
+# Ignore environment variables
 .env
 
-# System files
+# Ignore dependencies
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore system files
 .DS_Store
 Thumbs.db
